@@ -1,0 +1,4 @@
+id,ReferenceImageSeriesInstanceUID,Liver,Tumor,Venous
+1,1.2.840.113619.2.55.3.2743925538.5755.1168295804.188,011_recurrence_preop/011_recurrence_preop_Liver.mhd,011_recurrence_preop/011_recurrence_preop_Tumor.mhd,011_recurrence_preop/011_recurrence_preop_Venous.mhd
+2,1.2.840.113619.2.55.3.2743925538.5755.1168295804.188,011_recurrence_preop/011_recurrence_preop_Liver.mhd,,011_recurrence_preop/011_recurrence_preop_Venous.mhd
+3,1.2.840.113619.2.55.3.2743925538.5755.1168295804.188,,,011_recurrence_preop/011_recurrence_preop_Venous.mhd

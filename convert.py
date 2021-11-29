@@ -189,8 +189,6 @@ def main(argv):
     importReferenceImages(args.referenceDicomImagesDir, databaseDirectory)
     conversionList = getConversionList(args.conversionListCsvFile)
 
-    #convertLabelmapToDicomSeg(conversionList[0], args.dataRootDir, args.outputDir)
-
     # Convert
     for conversion in conversionList:
         convertLabelmapToDicomSeg(conversion, args.dataRootDir, args.outputDir)
